@@ -1,7 +1,7 @@
-#############
-## Step 1: data process
-## exclude cell
-## 
+###################
+#step1: create seurat object and doublet removal
+#step2: data integration by harmony 
+#step3: annotation by canonical markers
 
 cat ("sample", i, "cell: ")
 
