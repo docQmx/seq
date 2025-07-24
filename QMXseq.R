@@ -3,8 +3,6 @@
 #step2: data integration by harmony 
 #step3: annotation by canonical markers
 
-cat ("sample", i, "cell: ")
-
 Sys.setenv(LANGUAGE = "en")
 options(stringsAsFactors = FALSE)
 rm(list=ls())
